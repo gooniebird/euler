@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-collections4-4.0-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Euler24/lib/commons-collections4-4.0-bin/commons-collections4-4.0/commons-collections4-4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
